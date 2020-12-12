@@ -1,5 +1,5 @@
 # 8puzzle
 
-A simple 8 puzzle game using python library pygame
+A simple 8 puzzle game using python library Pygame
 
 This game initializes a random puzzle on solving the game displays the " Puzzle Solved !!"
